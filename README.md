@@ -1,7 +1,7 @@
 - Hi, I’m @leeisack 👋
 - A MS candidata at Chonnam National university, Republic of Korea
 - 🌱 I’m currently working on VIM Laboratory.
-- 👀 I’m interested in Computer vision, GAN
+- 👀 I’m interested in Computer vision
 - ⚡ I’m looking to collaborate on the people who want to make fancy neural system!
 - 📫 Contact me: sackda24@jnu.ac.kr
 
